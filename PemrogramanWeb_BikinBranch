@@ -4,6 +4,9 @@
 ?>php
 echo "Halo World";
 print "<br> Sedang Belajar PHP";
+
+echo "Halo World";
+print "<br> Sedang Belajar GitHub";
 ?>
 </body>
 </html>
